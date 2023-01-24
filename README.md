@@ -12,10 +12,6 @@ I have been coding since 2015, I have a loooong list of projects, languages, and
 * 🚀  I'm currently working on [Waylitic](http://waylitic.com)
 * 🧠  I'm learning Laravel Inertia with Vuejs and creating subscription
 
-<a href="https://www.twitter.com/johnjmwakalinga" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/johnjmwakalinga?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 <p align="left">
