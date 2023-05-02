@@ -7,7 +7,6 @@ An ecstatic dev!
 I have been coding since 2015, I have a loooong list of projects, languages, and frameworks I have worked on this time. But the stack the I am currently stuck in is Laravel, Angular, and Flutter!
 
 * 🌍  I'm based in Dar es Salaam, Tanzania
-* 🖥️  See my portfolio at [My Web profile](http://johnmwakalinga.me/)
 * ✉️  You can contact me at [mwakalingajohn@gmail.com](mailto:mwakalingajohn@gmail.com)
 
 ### Skills
